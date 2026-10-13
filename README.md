@@ -1,2 +1,4 @@
 # service-tracking-system
-Independently developed during my internship to support service transportation tracking. The source code and internal details are not shared due to confidentiality.
+I independently developed a QR code-based employee shuttle tracking system during my internship. I built web interfaces and performed database queries, data updates, and basic database operations.
+Technologies: ASP.NET MVC, C#, SQL Server
+Source code and company-specific details are not shared due to confidentiality.
