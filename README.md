@@ -1,2 +1,2 @@
 # service-tracking-system
-Service tracking system developed for managing company service buses and monitoring employee transportation.
+Independently developed during my internship to support service transportation tracking. The source code and internal details are not shared due to confidentiality.
